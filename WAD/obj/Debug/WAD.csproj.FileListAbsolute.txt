@@ -57,3 +57,6 @@ C:\Users\Admin\source\repos\WAD\WAD\bin\Microsoft.CodeDom.Providers.DotNetCompil
 C:\Users\Admin\source\repos\WAD\WAD\obj\Debug\WAD.dll
 C:\Users\Admin\source\repos\WAD\WAD\obj\Debug\WAD.pdb
 C:\Users\Admin\source\repos\WAD\WAD\obj\Debug\WAD.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WAD\WAD\obj\Debug\WAD.Migrations.InitialCreate.resources
+C:\Users\Admin\source\repos\WAD\WAD\obj\Debug\WAD.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WAD\WAD\obj\Debug\WAD.Migrations.UpdateExam.resources
